@@ -1,5 +1,5 @@
 The code is the basis for the paper: "Low dimensional synthetic data generation for improving data driven prognostic models" 
-In order to re-run the experiment in the paper or just use the some of the synethtic data generation methods the following steps needs to be done:
+In order to re-run the experiment in the paper or just use the some of the synethtic data generation methods the following steps needs to be done.
 
 Install all packages needed for running the code
 
